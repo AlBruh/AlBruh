@@ -1,3 +1,6 @@
+![Header-The-Evolving-Landscape-of-Cybersecurity-in-the-Public-Sector-scaled](https://github.com/user-attachments/assets/9d7c3c06-5fd6-4a0e-bc7a-24da1fc2c564)
+
+
 I’m an aspiring technology professional with passion for web development and cybersecurity. Currently, I’m dedicating my time to studing Web and Multiplatform Development at Core Networks. Meanwhile I’m expanding my knowledge in cybersecurity through self-study, using online platforms and documentation.
 
 My journey into tech began at university, although I eventually decided to leave to pursue a more hands-on approach to learning, I discovered a true passion for technology and problem-solving. This led me to focus on self-guided studies and more practical training.
